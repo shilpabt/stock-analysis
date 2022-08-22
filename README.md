@@ -55,8 +55,13 @@ Comparition of the execution times for the original script and the refactored sc
 
 ![Excecution Time for 2018 stocks](Resources/VBA_Challenge_2018.png?raw=true "Excecution Time for 2018 stocks in refactored script")
 
+Excecution Time comparition for 2017 and 2018 stocks
 
-![Excecution Time comparition for 2017 and 2018 stocks](Resources/ExecutionTime.png?raw=true "Excecution Time comparition for 2017 and 2018 stocks")
+Year   |  Execution Time in Original Script (sec)| Execution Time in Restored Script (sec)
+:------|---------------------------------:|:---------------------------------:
+2017   |```0.79687``` | ```0.59375```
+2018   |```0.78125``` | ```0.58593```
+
 
 
  1. The stock performance is much better in year 2017 than 2018. 
